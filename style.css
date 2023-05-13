@@ -6,7 +6,7 @@
 body {
 background: #2a3742 url(images/bg.jpg) repeat-x top center;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 14px;
+font-size: 19px;
 line-height: 20px;
 color: #eee;
 }
@@ -31,7 +31,7 @@ background: #2a3742 url(images/header.jpg) no-repeat;
 
 }
 #header h1 { 
-font-size: 28px;
+font-size: 30px;
 letter-spacing: -1px;
 padding: 35px 0 0 20px;
 color: #fff;
@@ -46,7 +46,7 @@ letter-spacing: -2px;
 color: #A3D74F;
 }
 #header h2 {
-font-size: 19px;
+font-size: 25px;
 color: #e1c70e;
 padding: 5px 0 0 20px;
 letter-spacing: -1px;
